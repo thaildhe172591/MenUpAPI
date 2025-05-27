@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester - 8\\EXE\\Project_V2\\Skin-Analysis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\semester - 8\\exe\\project_v2\\skin-analysis\\skinshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\semester - 8\\exe\\project_v2\\skin-analysis\\skinshopapi\\services\\skinanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\skinanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\semester - 8\\exe\\project_v2\\skin-analysis\\skinshopapi\\services\\iservice\\iskinanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\iservice\\iskinanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\semester - 8\\exe\\project_v2\\skin-analysis\\skinshopapi\\controllers\\faceanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\controllers\\faceanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Semester - 8\\EXE\\Project_V2\\Skin-Analysis\\SkinShopAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SkinShopAPI\\appsettings.json",
+              "ToolTip": "D:\\Semester - 8\\EXE\\Project_V2\\Skin-Analysis\\SkinShopAPI\\appsettings.json",
+              "RelativeToolTip": "SkinShopAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T12:12:05.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkinAnalysisService.cs",
+              "DocumentMoniker": "D:\\Semester - 8\\EXE\\Project_V2\\Skin-Analysis\\SkinShopAPI\\Services\\SkinAnalysisService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\SkinAnalysisService.cs",
+              "ToolTip": "D:\\Semester - 8\\EXE\\Project_V2\\Skin-Analysis\\SkinShopAPI\\Services\\SkinAnalysisService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\SkinAnalysisService.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAYwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:02:01.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISkinAnalysisService.cs",
+              "DocumentMoniker": "D:\\Semester - 8\\EXE\\Project_V2\\Skin-Analysis\\SkinShopAPI\\Services\\IService\\ISkinAnalysisService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\IService\\ISkinAnalysisService.cs",
+              "ToolTip": "D:\\Semester - 8\\EXE\\Project_V2\\Skin-Analysis\\SkinShopAPI\\Services\\IService\\ISkinAnalysisService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\IService\\ISkinAnalysisService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:01:59.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FaceAnalysisController.cs",
+              "DocumentMoniker": "D:\\Semester - 8\\EXE\\Project_V2\\Skin-Analysis\\SkinShopAPI\\Controllers\\FaceAnalysisController.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Controllers\\FaceAnalysisController.cs",
+              "ToolTip": "D:\\Semester - 8\\EXE\\Project_V2\\Skin-Analysis\\SkinShopAPI\\Controllers\\FaceAnalysisController.cs",
+              "RelativeToolTip": "SkinShopAPI\\Controllers\\FaceAnalysisController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAkwFkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:34:33.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

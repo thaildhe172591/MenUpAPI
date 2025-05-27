@@ -1,0 +1,326 @@
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\appsettings.json
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\SkinShopAPI.staticwebassets.endpoints.json
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\SkinShopAPI.exe
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\SkinShopAPI.deps.json
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\SkinShopAPI.runtimeconfig.json
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\SkinShopAPI.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\SkinShopAPI.pdb
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.csproj.AssemblyReference.cache
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.AssemblyInfoInputs.cache
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.AssemblyInfo.cs
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.csproj.CoreCompileInputs.cache
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\scopedcss\bundle\SkinShopAPI.styles.css
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\SkinShop.96DCBBCF.Up2Date
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.dll
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\refint\SkinShopAPI.dll
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.pdb
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.genruntimeconfig.cache
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\ref\SkinShopAPI.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Humanizer.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\MailKit.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\MimeKit.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.sourcelink.json
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\EPPlus.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SkinShopAPI\SkinShopAPI\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+D:\SkinShopAPI\SkinShopAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\appsettings.json
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\SkinShopAPI.exe
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\SkinShopAPI.deps.json
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\SkinShopAPI.runtimeconfig.json
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\SkinShopAPI.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\SkinShopAPI.pdb
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\EPPlus.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\MailKit.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\MimeKit.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.csproj.AssemblyReference.cache
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.AssemblyInfoInputs.cache
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.AssemblyInfo.cs
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.csproj.CoreCompileInputs.cache
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.sourcelink.json
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\staticwebassets\msbuild.SkinShopAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.SkinShopAPI.props
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SkinShopAPI.props
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SkinShopAPI.props
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\scopedcss\bundle\SkinShopAPI.styles.css
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\SkinShop.96DCBBCF.Up2Date
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\refint\SkinShopAPI.dll
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.pdb
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\SkinShopAPI.genruntimeconfig.cache
+D:\Semester - 8\EXE\Project_V2\Skin-Analysis\SkinShopAPI\obj\Debug\net8.0\ref\SkinShopAPI.dll

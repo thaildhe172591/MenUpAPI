@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinShopAPI", "SkinShopAPI\SkinShopAPI.csproj", "{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15FFCAF1-D924-4117-9C5E-2FFE5F7308F8}
+	EndGlobalSection
+EndGlobal

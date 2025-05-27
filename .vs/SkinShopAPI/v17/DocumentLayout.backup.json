@@ -1,0 +1,1530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SkinShopAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\cartitemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\cartitemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\irepository\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\irepository\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\productreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\productreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\cartitemservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\cartitemservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\iservice\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\iservice\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\cartitemdtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\cartitemdtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\cartitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\cartitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\controllers\\brandscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\controllers\\brandscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\cartitemrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\cartitemrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\productservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\productservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\paymentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\paymentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\productreviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\productreviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\userservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\userservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\controllers\\categoriescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\controllers\\categoriescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\brandservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\brandservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\categoryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\categoryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\orderdetailservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\orderdetailservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\irepository\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\irepository\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\userrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\userrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\controllers\\productreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\controllers\\productreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\controllers\\orderdetailscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\controllers\\orderdetailscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\controllers\\userscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\controllers\\userscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\irepository\\iproductreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\irepository\\iproductreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\migrations\\skincareshopformencontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\migrations\\skincareshopformencontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\migrations\\20250526124630_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\migrations\\20250526124630_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\data\\skincareshopformencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\data\\skincareshopformencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\models\\productreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\models\\productreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\paymentrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\paymentrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\categoryrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\categoryrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\createproductreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\createproductreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\sendotprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\sendotprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\skinshopapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\skinshopapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\productreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\productreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\verifyotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\verifyotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\iservice\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\iservice\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\orderrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\orderrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\orderdetailrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\orderdetailrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\brandrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\brandrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\iservice\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\iservice\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\iservice\\iproductreviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\iservice\\iproductreviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\models\\emailverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\models\\emailverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\models\\skinanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\models\\skinanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\createpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\createpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\orderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\orderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\iservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\iservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\iservice\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\iservice\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\iservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\iservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\services\\iservice\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\services\\iservice\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\irepository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\irepository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\irepository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\irepository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\skinshopapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\skinshopapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\repository\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\repository\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\skinshopapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\skinshopapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|d:\\skinshopapi\\skinshopapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4AB530-ADAA-4D33-B372-ED1C2B6CF912}|SkinShopAPI\\SkinShopAPI.csproj|solutionrelative:skinshopapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\ProductService .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\ProductService .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\ProductService .cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\ProductService .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:42:48.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\UserService .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\UserService .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\UserService .cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\UserService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:10:31.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentService .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\PaymentService .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\PaymentService .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\PaymentService .cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\PaymentService .cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:47:26.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductReviewRepository.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\ProductReviewRepository.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\ProductReviewRepository.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\ProductReviewRepository.cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\ProductReviewRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:52:30.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\IRepository\\IBrandRepository.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IBrandRepository.cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\IRepository\\IBrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:18:59.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartItemRequestDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CartItemRequestDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\CartItemRequestDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CartItemRequestDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\CartItemRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:55:46.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "SkinShopAPI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:45:17.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItemService .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\CartItemService .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\CartItemService .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\CartItemService .cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\CartItemService .cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:44:06.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriesController .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\CategoriesController .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Controllers\\CategoriesController .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\CategoriesController .cs",
+              "RelativeToolTip": "SkinShopAPI\\Controllers\\CategoriesController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:17:11.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartItemRepository .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\CartItemRepository .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\CartItemRepository .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\CartItemRepository .cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\CartItemRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:34:07.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrandsController .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\BrandsController .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Controllers\\BrandsController .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\BrandsController .cs",
+              "RelativeToolTip": "SkinShopAPI\\Controllers\\BrandsController .cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:22:04.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItemResponseDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CartItemResponseDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\CartItemResponseDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CartItemResponseDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\CartItemResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:56:15.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartItemDtocs.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CartItemDtocs.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\CartItemDtocs.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CartItemDtocs.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\CartItemDtocs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:17:59.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICartItemService.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\ICartItemService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\IService\\ICartItemService.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\ICartItemService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\IService\\ICartItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:43:25.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductReviewService.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\ProductReviewService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\ProductReviewService.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\ProductReviewService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\ProductReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:54:15.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BrandService .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\BrandService .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\BrandService .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\BrandService .cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\BrandService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:21:14.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDetailService .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\OrderDetailService .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\OrderDetailService .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\OrderDetailService .cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\OrderDetailService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:41:14.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\EmailService.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\EmailService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:37:11.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryService .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\CategoryService .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\CategoryService .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\CategoryService .cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\CategoryService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:16:24.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\IRepository\\IUserRepository.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\IRepository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:07:48.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICartItemRepository.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\ICartItemRepository.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\IRepository\\ICartItemRepository.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\ICartItemRepository.cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\IRepository\\ICartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:33:38.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepository .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\UserRepository .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\UserRepository .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\UserRepository .cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\UserRepository .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:09:24.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SkinShopAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAgwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:27:57.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsersController .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\UsersController .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Controllers\\UsersController .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\UsersController .cs",
+              "RelativeToolTip": "SkinShopAPI\\Controllers\\UsersController .cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:12:36.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductReviewController.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\ProductReviewController.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Controllers\\ProductReviewController.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\ProductReviewController.cs",
+              "RelativeToolTip": "SkinShopAPI\\Controllers\\ProductReviewController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:54:55.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SkinShopAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAEYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:44:07.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\IRepository\\IProductRepository.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:35:44.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Models\\Payment.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\Payment.cs",
+              "RelativeToolTip": "SkinShopAPI\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:08:48.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\ProductUpdateDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\ProductUpdateDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:34:09.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Program.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Program.cs",
+              "RelativeToolTip": "SkinShopAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:26:19.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\UserCreateDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\UserCreateDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\UserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:25:19.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderDetailsController .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\OrderDetailsController .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Controllers\\OrderDetailsController .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\OrderDetailsController .cs",
+              "RelativeToolTip": "SkinShopAPI\\Controllers\\OrderDetailsController .cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:41:56.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\UserUpdateDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\UserUpdateDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\UserUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:15:40.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:37:12.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:37:00.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IProductReviewRepository.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IProductReviewRepository.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\IRepository\\IProductReviewRepository.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IProductReviewRepository.cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\IRepository\\IProductReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:52:01.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\Product.cs",
+              "RelativeToolTip": "SkinShopAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:08:48.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "SkinShopAPI\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:47:51.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IProductService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\IService\\IProductService.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IProductService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\IService\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:42:16.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SkincareShopForMenContext.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Data\\SkincareShopForMenContext.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Data\\SkincareShopForMenContext.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Data\\SkincareShopForMenContext.cs",
+              "RelativeToolTip": "SkinShopAPI\\Data\\SkincareShopForMenContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:42:31.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SkinShopAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:08:54.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SkincareShopForMenContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Migrations\\SkincareShopForMenContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Migrations\\SkincareShopForMenContextModelSnapshot.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Migrations\\SkincareShopForMenContextModelSnapshot.cs",
+              "RelativeToolTip": "SkinShopAPI\\Migrations\\SkincareShopForMenContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:46:41.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250526124630_InitialDB.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Migrations\\20250526124630_InitialDB.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Migrations\\20250526124630_InitialDB.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Migrations\\20250526124630_InitialDB.cs",
+              "RelativeToolTip": "SkinShopAPI\\Migrations\\20250526124630_InitialDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:46:35.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CategoryRepository .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\CategoryRepository .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\CategoryRepository .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\CategoryRepository .cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\CategoryRepository .cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:15:21.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductReview.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\ProductReview.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Models\\ProductReview.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\ProductReview.cs",
+              "RelativeToolTip": "SkinShopAPI\\Models\\ProductReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:08:49.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PaymentRepository .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\PaymentRepository .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\PaymentRepository .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\PaymentRepository .cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\PaymentRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:46:35.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Models\\CartItem.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\CartItem.cs",
+              "RelativeToolTip": "SkinShopAPI\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:09:05.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Models\\Brand.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\Brand.cs",
+              "RelativeToolTip": "SkinShopAPI\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:22:02.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "SkinShopAPI\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:08:46.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Models\\User.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\User.cs",
+              "RelativeToolTip": "SkinShopAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:55:53.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreateOrderDetailDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CreateOrderDetailDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\CreateOrderDetailDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CreateOrderDetailDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\CreateOrderDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:37:33.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateProductReviewDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CreateProductReviewDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\CreateProductReviewDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CreateProductReviewDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\CreateProductReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:50:21.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderDetailDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\OrderDetailDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\OrderDetailDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\OrderDetailDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\OrderDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:37:05.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\RegisterModel.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\RegisterModel.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:30:43.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SendOtpRequest.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\SendOtpRequest.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\SendOtpRequest.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\SendOtpRequest.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\SendOtpRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:36:17.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Models\\EmailSettings.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "SkinShopAPI\\Models\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:38:50.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "VerifyOtpDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\VerifyOtpDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\VerifyOtpDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\VerifyOtpDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\VerifyOtpDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:35:33.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProductReviewDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\ProductReviewDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\ProductReviewDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\ProductReviewDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\ProductReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:49:49.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IUserService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\IService\\IUserService.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IUserService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\IService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:09:59.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SkinShopAPI.http",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\SkinShopAPI.http",
+              "RelativeDocumentMoniker": "SkinShopAPI\\SkinShopAPI.http",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\SkinShopAPI.http",
+              "RelativeToolTip": "SkinShopAPI\\SkinShopAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-26T09:42:45.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IBrandService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\IService\\IBrandService.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IBrandService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\IService\\IBrandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:20:41.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OrderRepository .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\OrderRepository .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\OrderRepository .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\OrderRepository .cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\OrderRepository .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:06:56.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OrderDetailRepository .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\OrderDetailRepository .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\OrderDetailRepository .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\OrderDetailRepository .cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\OrderDetailRepository .cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:38:40.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BrandRepository .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\BrandRepository .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\BrandRepository .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\BrandRepository .cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\BrandRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:19:25.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Models\\Category.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\Category.cs",
+              "RelativeToolTip": "SkinShopAPI\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:09:06.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Models\\Role.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\Role.cs",
+              "RelativeToolTip": "SkinShopAPI\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:31:08.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\OrderDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:00:33.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\LoginModel.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\LoginModel.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\LoginModel.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:29:04.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IEmailService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\IService\\IEmailService.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IEmailService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\IService\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:44:26.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SkinShopAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T17:29:55.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IProductReviewService.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IProductReviewService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\IService\\IProductReviewService.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IProductReviewService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\IService\\IProductReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:53:50.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SkinShopAPI\\appsettings.json",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\appsettings.json",
+              "RelativeToolTip": "SkinShopAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T11:14:19.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "SkinAnalysis.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\SkinAnalysis.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Models\\SkinAnalysis.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\SkinAnalysis.cs",
+              "RelativeToolTip": "SkinShopAPI\\Models\\SkinAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:09:07.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Models\\Order.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\Order.cs",
+              "RelativeToolTip": "SkinShopAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:05:18.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "EmailVerification.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\EmailVerification.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Models\\EmailVerification.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Models\\EmailVerification.cs",
+              "RelativeToolTip": "SkinShopAPI\\Models\\EmailVerification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:43:41.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CreatePaymentDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CreatePaymentDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\CreatePaymentDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CreatePaymentDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\CreatePaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:45:45.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Data\\DbSeeder.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "SkinShopAPI\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:36:50.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "OrderService .cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\OrderService .cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\OrderService .cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\OrderService .cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\OrderService .cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:08:29.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\IService\\ICategoryService.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\ICategoryService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\IService\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:15:51.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\IService\\IOrderDetailService.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IOrderDetailService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\IService\\IOrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:40:19.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IOrderService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\IService\\IOrderService.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IOrderService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\IService\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:07:40.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Services\\IService\\IPaymentService.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Services\\IService\\IPaymentService.cs",
+              "RelativeToolTip": "SkinShopAPI\\Services\\IService\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:46:59.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\CreateOrderDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\CreateOrderDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:02:22.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\DTOs\\PaymentDto.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\DTOs\\PaymentDto.cs",
+              "RelativeToolTip": "SkinShopAPI\\DTOs\\PaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:45:21.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\IRepository\\IOrderDetailRepository.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\IRepository\\IOrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:38:00.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:14:45.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\IRepository\\IPaymentRepository.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IPaymentRepository.cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\IRepository\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:46:15.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "SkinShopAPI.csproj",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\SkinShopAPI.csproj",
+              "RelativeDocumentMoniker": "SkinShopAPI\\SkinShopAPI.csproj",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\SkinShopAPI.csproj",
+              "RelativeToolTip": "SkinShopAPI\\SkinShopAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-24T11:15:13.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\Repository\\IRepository\\IOrderRepository.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\Repository\\IRepository\\IOrderRepository.cs",
+              "RelativeToolTip": "SkinShopAPI\\Repository\\IRepository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:02:56.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SkinShopAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\appsettings.Development.json",
+              "RelativeToolTip": "SkinShopAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T11:14:22.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "SkinShopAPI",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\SkinShopAPI.csproj",
+              "RelativeDocumentMoniker": "SkinShopAPI\\SkinShopAPI.csproj",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\SkinShopAPI.csproj",
+              "RelativeToolTip": "SkinShopAPI\\SkinShopAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-24T13:10:37.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\SkinShopAPI\\SkinShopAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SkinShopAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\SkinShopAPI\\SkinShopAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "SkinShopAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:26:51.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

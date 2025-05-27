@@ -1,20 +1,21 @@
-# Use the official .NET image as a build stage
-FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS base
+# Use the official .NET runtime as base image
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
 WORKDIR /app
 EXPOSE 80
 
-FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
+# Use the official .NET SDK to build the app
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["BackEndProject/BackEndProject.csproj", "BackEndProject/"]
-RUN dotnet restore "BackEndProject/BackEndProject.csproj"
+COPY ["SkinShopAPI/SkinShopAPI.csproj", "SkinShopAPI/"]
+RUN dotnet restore "SkinShopAPI/SkinShopAPI.csproj"
 COPY . .
-WORKDIR "/src/BackEndProject"
-RUN dotnet build "BackEndProject.csproj" -c Release -o /app/build
+WORKDIR "/src/SkinShopAPI"
+RUN dotnet build "SkinShopAPI.csproj" -c Release -o /app/build
 
 FROM build AS publish
-RUN dotnet publish "BackEndProject.csproj" -c Release -o /app/publish
+RUN dotnet publish "SkinShopAPI.csproj" -c Release -o /app/publish
 
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "BackEndProject.dll"]
+ENTRYPOINT ["dotnet", "SkinShopAPI.dll"]
